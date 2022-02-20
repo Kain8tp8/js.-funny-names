@@ -3,11 +3,11 @@ body {
 }
 
 .green {
-    background-color: rgb(35, 133, 32);
+    background-color: rgb(115, 200, 112);
 }
 
 .red {
-    background-color: rgb(209, 29, 29);
+    background-color: rgb(219, 84, 84);
 }
 
 .blue {
@@ -19,7 +19,7 @@ body {
 }
 
 .manil {
-    background-color: maroon;
+    background-color: rgb(109, 65, 65);
 }
 
 .cari {
@@ -39,5 +39,5 @@ body {
 }
 
 .rer {
-    background-color: rebeccapurple;
+    background-color: rgb(132, 72, 192);
 }
