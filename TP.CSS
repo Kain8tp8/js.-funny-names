@@ -1,3 +1,43 @@
-body{
+body {
     background-color: blanchedalmond;
+}
+
+.green {
+    background-color: rgb(35, 133, 32);
+}
+
+.red {
+    background-color: rgb(209, 29, 29);
+}
+
+.blue {
+    background-color: rgb(26, 80, 206);
+}
+
+.cook {
+    background-color: cornflowerblue;
+}
+
+.manil {
+    background-color: maroon;
+}
+
+.cari {
+    background-color: coral;
+}
+
+.alb {
+    background-color: aqua;
+}
+
+.wal {
+    background-color: wheat;
+}
+
+.ran {
+    background-color: rosybrown;
+}
+
+.rer {
+    background-color: rebeccapurple;
 }
